@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47979546381",
+    "project_id": "doc-scheduler-6e8de",
+    "storage_bucket": "doc-scheduler-6e8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47979546381:android:2f57d3ed08e74b325cd244",
+        "android_client_info": {
+          "package_name": "com.example.docscheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbJzXf-CHv6vmBbKbK7GS2S-_PneY1leE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
